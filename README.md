@@ -1,0 +1,1 @@
+This project displays food recipes on a webpage using HTML.
